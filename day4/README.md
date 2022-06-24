@@ -1,4 +1,4 @@
-<h1>Day 4 of 100 days of coding challenge</h1>
+<h1>Day 4 of 100 Python coding challenge</h1>
 <h2>Rock Paper Scissors</h2>
 <h4>Concepts learned and practiced:</h4>
 <li>Random Module
