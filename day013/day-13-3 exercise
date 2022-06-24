@@ -1,0 +1,22 @@
+for number in range(1, 101):
+  if number % 3 == 0 or number % 5 == 0:
+    print("FizzBuzz")
+  if number % 3 == 0:
+    print("Fizz")
+  if number % 5 == 0:
+    print("Buzz")
+  else:
+    print([number])
+
+#Solution: First the conditional statement needs to be and not or because fizzbuzz is printed if the number is divisible by both 3 and 5. Second, the second and third if statements need to be elif.
+# For the last problem the last print statement has the number wrapped in a list and that just needs to be removed.
+
+for number in range(1, 101):
+  if number % 3 == 0 and number % 5 == 0:
+    print("FizzBuzz")
+  elif number % 3 == 0:
+    print("Fizz")
+  elif number % 5 == 0:
+    print("Buzz")
+  else:
+    print(number)
