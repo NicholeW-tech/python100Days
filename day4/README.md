@@ -4,4 +4,5 @@
 <li>Random Module
 <li>Understanding the Offset and Appending Items to Lists
 <li>Index Errors and Working with Nested Lists</li>
-<h4>Live</h4>
+<h4>Try a live version here:</h4>
+<a href="https://replit.com/@NicholW/rock-paper-scissors-start#main.py">Replit link</a>
