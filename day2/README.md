@@ -1,5 +1,5 @@
 <h1>Day 2 of 100 Python coding challenge</h1>
-<h2>Tip calculator</h2>
+<h2>Tip Calculator</h2>
 <h4>Concepts learned and practiced </h4>
 
 <li>Python Primitive Data Types</li>
