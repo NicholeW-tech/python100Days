@@ -9,3 +9,4 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day6">Day 6:</a> Python functions and Karel</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day7">Day 7:</a> Hangman</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day8">Day 8:</a> Function parameters and Caesar Cipher </li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day9">Day 9:</a> Dictionaries, nesting and the secret auction</li>
