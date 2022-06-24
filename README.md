@@ -10,3 +10,6 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day007">Day 7:</a> Hangman</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day008">Day 8:</a> Function parameters and Caesar Cipher </li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day009">Day 9:</a> Dictionaries, nesting and the secret auction</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day010">Day 10:</a> Functions with outputs</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day011">Day 11:</a> The Blackjack capstone project</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day012">Day 12:</a> Scope and number guessing game</li>
