@@ -6,6 +6,6 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day3">Day 3:</a> Control flow and logical operators</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day4">Day 4:</a> Randomization and Python lists</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day5">Day 5:</a> Python loops</li>
-<li></li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day6">Day 6:</a> Pyton functions and Karel</li>
 <li></li>
 <li></li>
