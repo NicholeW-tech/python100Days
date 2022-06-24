@@ -7,5 +7,5 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day4">Day 4:</a> Randomization and Python lists</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day5">Day 5:</a> Python loops</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day6">Day 6:</a> Python functions and Karel</li>
-<li></li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day7">Day 7:</a> Hangman</li>
 <li></li>
