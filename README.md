@@ -17,3 +17,5 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day014">Day 14:</a> Higher lower game project</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day015">Day 15:</a> Local development environment setup & the coffee machine</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day014">Day 16:</a> Object oriented programming (OOP)</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day014">Day 17:</a> Quiz Project and benefits of OOP</li>
+
