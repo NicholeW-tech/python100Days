@@ -24,4 +24,6 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day020">Day 20:</a> Build the snake game: part 1</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day021">Day 21:</a> Build the snake game: part 2</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day022">Day 22:</a> Pong game</li>
-<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day022">Day 23:</a> Capstone: Turtle crossing</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day023">Day 23:</a> Capstone: Turtle crossing</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day024">Day 24:</a> Files, Directories and Paths</li>
+
