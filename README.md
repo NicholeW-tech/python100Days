@@ -17,7 +17,9 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day014">Day 14:</a> Higher lower game project</li>
 <h2> Intermediate projects </h2>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day015">Day 15:</a> Local development environment setup & the coffee machine</li>
-<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day014">Day 16:</a> Object oriented programming (OOP)</li>
-<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day014">Day 17:</a> Quiz Project and benefits of OOP</li>
-<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day014">Day 18:</a> Turtle & the Graphical User Interface (GUI)</li>
-
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day016">Day 16:</a> Object oriented programming (OOP)</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day017">Day 17:</a> Quiz Project and benefits of OOP</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day018">Day 18:</a> Turtle & the Graphical User Interface (GUI)</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day019">Day 19:</a> Instances, State and Higher Order Functions</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day020">Day 20:</a> Build the snake game: part 1</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day021">Day 21:</a> Build the snake game: part 2</li>
