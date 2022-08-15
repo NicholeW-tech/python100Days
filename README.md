@@ -35,4 +35,6 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day031">Day 31:</a> Capstone Project: Flash Card App</li>
 <h2> Intermediate+ projects </h2>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day032">Day 32:</a> Send Email (smtplib) & Manage Dates (datetime)</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day033">Day 33:</a> API Endpoints & API Parameters - ISS Overhead Notifier</li>
+
 
