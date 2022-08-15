@@ -7,3 +7,4 @@
 <li>Saving Data to File
 <li>Dialog Boxes and Pop-Ups in Tkinter
 <li>Generate a Password & Copy it to the Clipboard
+
