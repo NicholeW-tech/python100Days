@@ -44,3 +44,4 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day039">Day 39:</a> Capstone Part 1: Flight Deal Finder</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day040">Day 40:</a> Capstone Part 2: Flight Deal Finder</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day041">Day 41:</a> Introduction to HTML</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day042">Day 42:</a> Intermediate HTML</li>
