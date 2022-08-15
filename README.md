@@ -41,3 +41,5 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day036">Day 36:</a> Stock Trading News Alert Project</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day037">Day 37:</a> Habit Tracking Project: API Post Requests & Headers</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day038">Day 38:</a> Workout Tracking Using Google Sheets</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day039">Day 39:</a> Capstone Part 1: Flight Deal Finder</li>
+
