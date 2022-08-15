@@ -47,3 +47,5 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day042">Day 42:</a> Intermediate HTML</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day043">Day 43:</a> Introduction to CSS</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day044">Day 44:</a> Intermediate CSS</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day045">Day 45:</a> Web Scraping with Beautiful Soup</li>
+
