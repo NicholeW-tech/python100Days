@@ -39,3 +39,4 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day034">Day 34:</a> API Practice - Creating a GUI Quiz App</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day035">Day 35:</a> Keys, Authentication & Environment Variables - Telegram Rain Notifier</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day036">Day 36:</a>Stock Trading News Alert Project</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day037">Day 37:</a>Stock Habit Tracking Project: API Post Requests & Headers</li>
