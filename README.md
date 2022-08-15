@@ -29,3 +29,4 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day025">Day 25:</a> U.S. States Game</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day026">Day 26:</a> List comprehension and the NATO alphabet</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day027">Day 27:</a> Tkinter, *args, **kwargs and Creating GUI Programs</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day028">Day 28:</a> Tkinter, Dynamic Typing and the Pomodoro GUI Application</li>
