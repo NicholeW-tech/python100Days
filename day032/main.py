@@ -2,8 +2,9 @@ import smtplib
 import datetime as dt
 import random
 import pandas
-
-
+#Not real email or password
+my_email = "test@gmail.com"
+password = "test"
 
 now = dt.datetime.now()
 date = (now.month, now.day)
