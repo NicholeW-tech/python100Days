@@ -1,0 +1,105 @@
+
+body {
+background-color: #E9E5D6;
+margin: 0px;
+text-align: center;
+font-family: verdana, serf;
+}
+hr {
+border-color: #362706;
+border-style: none;
+border-top-style: dotted;
+border-width: 5px;
+width: 5%;
+}
+h1 {
+    font-size: 5.625em;
+    color: #464E2E;
+    margin: 50px;
+}
+h2 {
+    color: #464E2E;
+    font-size: 2.5rem;
+
+}
+h3 {
+    color: #362706;
+}
+
+.top_div {
+    background-color: #ACB992;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 500px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 450px;
+    bottom: 300px;
+}
+
+.footer-link{
+    color: #362706;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    line-height: 2;
+}
+
+.computer-img {
+    width: 25%;
+    float: left;
+    padding: 30px;
+}
+
+.chillies-img{
+    width: 25%;
+    float: right;
+    padding: 30px;
+}
+
+.bottom-container {
+    background-color: #ACB992;
+    padding: 100px;
+}
+
+.bottom-container p {
+    color: white;
+    margin-top: 50px;
+}
+
+.contact-me p {
+    margin-bottom: 75px;
+
+}
+
+.contact-me {
+    margin-bottom: 100px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #E9E5D6;
+  font-size: 20px;
+  background: #464E2E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ACB992;
+  text-decoration: none;
+}
