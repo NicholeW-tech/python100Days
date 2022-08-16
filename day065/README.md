@@ -1,5 +1,5 @@
 <h1> Day 65 of 100 Python coding challenge </h1>
-<h2>Databases and with SQLite and SQLAlchemy</h2>
+<h2>Web Design: Build an aesthetically pleasing website</h2>
 
 <h4> Concepts learned and practiced: </h4>
 <li>Introduction to Web Design
