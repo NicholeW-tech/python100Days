@@ -53,3 +53,4 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day048">Day 48:</a> Selenium Webdriver Browser and Game Playing Bot</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day049">Day 49:</a> Automating Job Applications on LinkedIn</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day050">Day 50:</a> Auto Tinder Swiping Bot</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day051">Day 51:</a> Internet Speed Twitter Complaint Bot</li>
