@@ -68,7 +68,7 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day062">Day 62:</a> Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day063">Day 63:</a> Databases and with SQLite and SQLAlchemy</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day064">Day 64:</a> My Top 10 Movies Website</li>
-<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day065">Day 65:</a> Databases and with SQLite and SQLAlchemy</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day065">Day 65:</a> Web Design: Build an aesthetically pleasing website</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day066">Day 66:</a> Building Your Own API with RESTful Routing</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day067">Day 67:</a> Blog Capstone Project Part 3 - RESTful Routing</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day068">Day 68:</a> Authentication with Flask</li>
