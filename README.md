@@ -50,3 +50,4 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day045">Day 45:</a> Web Scraping with Beautiful Soup</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day046">Day 46:</a> Create a Spotify Playlist Using The Musical Time Machine</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day047">Day 47:</a> Create an Automated Amazon Price Tracker</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day048">Day 48:</a> Selenium Webdriver Browser and Game Playing Bot</li>
