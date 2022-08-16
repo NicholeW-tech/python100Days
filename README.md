@@ -55,3 +55,4 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day050">Day 50:</a> Auto Tinder Swiping Bot</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day051">Day 51:</a> Internet Speed Twitter Complaint Bot</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day052">Day 52:</a> Instagram Follower Bot</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day053">Day 53:</a> Web Scraping Capstone - Data Entry Job Automation</li>
