@@ -59,3 +59,4 @@ This is a repository to hold the projects I created during the 100 days of code 
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day054">Day 54:</a> Introduction to Web Development with Flask</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day055">Day 55:</a> HTML & URL Parsing in Flask and the Higher Lower Game</li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day056">Day 56:</a> Rendering HTML/Static Files and Using Website Templates</li>
+<li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day057">Day 57:</a> Templating with Jinja in Flask Applications</li>
