@@ -1,4 +1,4 @@
-<h1> Day 46 of 100 Python coding challenge </h1>
+<h1> Day 48 of 100 Python coding challenge </h1>
 <h2>Selenium Webdriver Browser and Game Playing Bot</h2>
 
 <h4> Concepts learned and practiced: </h4>
