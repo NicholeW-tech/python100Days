@@ -1,0 +1,74 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block styles %}
+{{super()}}
+<link rel="stylesheet"
+      href="{{url_for('.static', filename='css/styles.css')}}">
+{% endblock %}
+
+{% block title %}Add A New Cafe{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-8">
+
+      <h1>Add a new cafe into the database</h1>
+
+		{{ wtf.quick_form(form, novalidate=True) }}
+
+<!--         <form method="POST" action="{{ url_for('add_cafe') }}" novalidate>-->
+<!--				{{ form.csrf_token }}-->
+<!--			<p>-->
+<!--				{{ form.cafe.label }} <br> {{ form.cafe(size=60) }}-->
+<!--				{% for err in form.cafe.errors %}-->
+<!--				<span style='color:red'>{{ err }} </span>-->
+<!--				{% endfor %}-->
+<!--			</p>-->
+<!--			<p>-->
+<!--				{{ form.location.label }} <br> {{ form.location(size=60) }}-->
+<!--				{% for err in form.location.errors %}-->
+<!--				<span style='color:red'>{{ err }} </span>-->
+<!--				{% endfor %}-->
+<!--			</p>-->
+<!--           <p>-->
+<!--				{{ form.open.label }} <br> {{ form.open(size=60) }}-->
+<!--				{% for err in form.open.errors %}-->
+<!--				<span style='color:red'>{{ err }} </span>-->
+<!--				{% endfor %}-->
+<!--			</p>-->
+<!--			 <p>-->
+<!--				{{ form.closing.label }} <br> {{ form.closing(size=60) }}-->
+<!--				{% for err in form.closing.errors %}-->
+<!--				<span style='color:red'>{{ err }} </span>-->
+<!--				{% endfor %}-->
+<!--			</p>-->
+<!--			 <p>-->
+<!--				{{ form.coffee_rating.label }} <br> {{ form.coffee_rating()}}-->
+<!--				{% for err in form.coffee_rating.errors %}-->
+<!--				<span style='color:red'>{{ err }} </span>-->
+<!--				{% endfor %}-->
+<!--			</p>-->
+<!--			 <p>-->
+<!--				{{ form.wifi_rating.label }} <br> {{ form.wifi_rating() }}-->
+<!--				{% for err in form.wifi_rating.errors %}-->
+<!--				<span style='color:red'>{{ err }} </span>-->
+<!--				{% endfor %}-->
+<!--			</p>-->
+<!--			 <p>-->
+<!--				{{ form.power_outlet.label }} <br> {{ form.power_outlet() }}-->
+<!--				{% for err in form.power_outlet.errors %}-->
+<!--				<span style='color:red'>{{ err }} </span>-->
+<!--				{% endfor %}-->
+<!--			</p>-->
+<!--			{{ form.submit }}-->
+<!--			</form>-->
+
+	  <p class="space-above"><a href="{{ url_for('home') }}">See all cafes</a></p>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}
