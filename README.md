@@ -1,5 +1,5 @@
-# python100Days
-This is a repository to hold the projects I created during the 100 days of code challenge
+<h1> Python 100 days of code </h1>
+This is a repository to hold the projects I created during the 100 days of code challenge to learn and practice Python language and frameworks
 <h2> Beginner projects </h2>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day001">Day 1:</a> Working with variables in Python to manage data </li>
 <li><a href="https://github.com/NicholeW-tech/python100Days/tree/main/day002">Day 2:</a> Understanding data types and how to manipulate strings</li>
