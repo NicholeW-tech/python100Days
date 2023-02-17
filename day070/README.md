@@ -7,5 +7,3 @@
 <li>Use gunicorn and Heroku to host your website
 <li> Setup a WSGI server with gunicorn
 <li> Upgrade SQLite Database to PostgreSQL
-<h4>Try a live version:</h4>
-  <a href="https://fake--blog.herokuapp.com/">Heroku link </a>
